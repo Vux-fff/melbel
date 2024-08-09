@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.122.224.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723216234686
+  login: 1723214438679
+money: '0'
+last-account-name: Songia
+logoutlocation:
+  world: b36bb907-55b0-401f-8819-2612bb339aeb
+  world-name: world
+  x: 916.3020537745347
+  y: 163.0
+  z: 459.30000001192093
+  yaw: 76.817626953125
+  pitch: -70.49991607666016

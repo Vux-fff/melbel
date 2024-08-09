@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.173.58.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723216391489
+  login: 1723214485129
+money: '0'
+last-account-name: ahihino2
+logoutlocation:
+  world: b36bb907-55b0-401f-8819-2612bb339aeb
+  world-name: world
+  x: 876.5996049238902
+  y: 72.0
+  z: 651.6999999880791
+  yaw: -117.61572265625
+  pitch: 80.39994812011719

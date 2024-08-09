@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.186.136.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723216143689
+  login: 1723216015931
+money: '0'
+last-account-name: akimitsu
+logoutlocation:
+  world: b36bb907-55b0-401f-8819-2612bb339aeb
+  world-name: world
+  x: 693.5194813193706
+  y: 63.0
+  z: 584.318240330358
+  yaw: 36.5966796875
+  pitch: 16.050025939941406

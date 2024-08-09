@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.192.8.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723204150586
+  login: 1723203946281
+money: '0'
+last-account-name: KhanhVipProh
+logoutlocation:
+  world: b36bb907-55b0-401f-8819-2612bb339aeb
+  world-name: world
+  x: 892.0305223133853
+  y: 67.0
+  z: 609.6997944019216
+  yaw: -20.399965286254883
+  pitch: 26.10000228881836

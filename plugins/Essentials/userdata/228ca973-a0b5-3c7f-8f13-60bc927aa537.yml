@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.64.89.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723027599627
+  login: 1723025361174
+money: '0'
+last-account-name: Hieuthiunang
+logoutlocation:
+  world: 0ace4154-6f73-45d9-a054-2ecc355d2b30
+  world-name: world_nether
+  x: -226.75257621236324
+  y: 63.0
+  z: -120.27346754689783
+  yaw: -93.80870056152344
+  pitch: 40.354923248291016
